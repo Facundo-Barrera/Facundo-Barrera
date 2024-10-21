@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 
 
-My favorite project is Dynamic Duo https://github.com/Agustorrgrossa/Dynamic-Duo.git
+My favorite project is Dynamic Duo https://github.com/Facundo-Barrera/Dynamic-Duo.git
 
 Ask me about Python, SQL , Power BI
 
